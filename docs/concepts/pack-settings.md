@@ -2,7 +2,11 @@
 title: Pack Settings
 mentions:
     - Cavell1234
+title: Pack Settings
 description: Pack settings allow you to add toggles, sliders and dropdowns to your pack.
+license: true
+mentions:
+    - Cavell1234
 ---
 
 ## What are Pack Settings?
