@@ -112,7 +112,11 @@ query.is_pack_setting_enabled('wiki:show_text')
 
 query.get_pack_setting('wiki:text_scale')
 
-query.is_pack_setting_selected('wiki:text', 'text_2')
+`query.is_pack_setting_enabled('wiki:show_text')`{lang=molang}
+
+`query.get_pack_setting('wiki:text_scale')`{lang=molang}
+
+`query.is_pack_setting_selected('wiki:text', 'text_2')`{lang=molang}
 
 
 Behavior pack settings are configured per-world and can be changed by the world or server owner.
