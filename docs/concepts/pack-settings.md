@@ -117,4 +117,4 @@ They can be accessed using Molang:
 
 Behavior pack settings are configured per-world and can be changed by the world or server owner.
 
-Behavior packs can access pack settings through the Script API's world.getPackSettings() API. This functionality is currently in beta.
+Behavior packs can access pack settings through the Script API's world.getPackSettings() API.
